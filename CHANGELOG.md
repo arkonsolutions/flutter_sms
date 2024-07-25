@@ -1,3 +1,6 @@
+# 2.3.4
+Updated kotlin version
+
 # 2.3.3
 
 * Adding ability to send SMS directly on Android (#57).
