@@ -2,7 +2,7 @@ group 'com.example.flutter_sms'
 version '1.1-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.9.20'
+    ext.kotlin_version = '2.0.0'
     repositories {
         google()
         jcenter()
@@ -26,7 +26,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.example.fluttersms"
+    namespace "com.example.flutter_sms"
     compileSdkVersion 33
 
     sourceSets {
