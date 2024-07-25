@@ -1,3 +1,6 @@
+# 2.3.8
+Kotlin version updated
+
 # 2.3.4
 Updated kotlin version
 
